@@ -24,6 +24,11 @@ We have provided an anaconda environment file to set up your python environment 
 conda env create -f environment.yaml
 ```
 
+**alternative for venv users**
+```bash
+pip install -r requirements.txt
+```
+
 Follow the instructions for installation. When the installation completes successfully, you should see the following
 
 ```bash
